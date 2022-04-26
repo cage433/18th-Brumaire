@@ -1,12 +1,12 @@
 ---
 attachments: [Louis_Philippe_I.jpg]
-tags: [Personae]
-title: Louis
+tags: [Personae/1848]
+title: Louis Philippe
 created: '2022-04-24T19:06:48.084Z'
-modified: '2022-04-24T19:11:50.616Z'
+modified: '2022-04-24T22:11:17.085Z'
 ---
 
-# Louis
+# Louis Philippe
 
 ![](@attachment/Louis_Philippe_I.jpg)
 
